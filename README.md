@@ -2,7 +2,7 @@
 
 A responsive sneaker store landing page built with pure **HTML** and **CSS**, created as part of the **"أطلق متجرك" (Launch Your Store)** workshop organized by **Qafza**.
 
-![STEP Sneaker Store Preview](designs/Desktop.png)
+
 
 ## 🎯 About the Project
 
